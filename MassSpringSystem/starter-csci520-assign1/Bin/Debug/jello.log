@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (C:\Users\markk\Desktop\CSCI520\starter-csci520-assign1\\Bin\Debug\) contains files shared from another project (createWorld.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  physics.cpp
+C:\Users\markk\Desktop\CSCI520\starter-csci520-assign1\physics.cpp(151,7): warning C4101: 'b': 未參考的區域變數
+C:\Users\markk\Desktop\CSCI520\starter-csci520-assign1\physics.cpp(151,10): warning C4101: 'c': 未參考的區域變數
+C:\Users\markk\Desktop\CSCI520\starter-csci520-assign1\physics.cpp(151,13): warning C4101: 'd': 未參考的區域變數
+C:\Users\markk\Desktop\CSCI520\starter-csci520-assign1\physics.cpp(79): warning C4715: 'CountCeil': 不是所有控制路徑都傳回值
+C:\Users\markk\Desktop\CSCI520\starter-csci520-assign1\physics.cpp(66): warning C4715: 'CountFloor': 不是所有控制路徑都傳回值
+  jello.vcxproj -> C:\Users\markk\Desktop\CSCI520\starter-csci520-assign1\\Bin\Debug\jello.exe
